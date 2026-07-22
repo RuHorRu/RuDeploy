@@ -1,0 +1,227 @@
+[
+  {
+    "Id": "Microsoft.WindowsNotepad",
+    "DisplayName": "Notepad"
+  },
+  {
+    "Id": "Microsoft.MSPaint",
+    "DisplayName": "Paint 3D"
+  },
+  {
+    "Id": "Microsoft.SkypeApp",
+    "DisplayName": "Skype"
+  },
+  {
+    "Id": "Microsoft.ScreenSketch",
+    "DisplayName": "Snipping Tool"
+  },
+  {
+    "Id": "Microsoft.ZuneVideo",
+    "DisplayName": "Películas y TV"
+  },
+  {
+    "Id": "Microsoft.Xbox.TCUI",
+    "DisplayName": "Xbox Apps TCUI"
+  },
+  {
+    "Id": "Microsoft.XboxApp",
+    "DisplayName": "Xbox App"
+  },
+  {
+    "Id": "Microsoft.XboxGameOverlay",
+    "DisplayName": "Xbox Game Overlay"
+  },
+  {
+    "Id": "Microsoft.XboxGamingOverlay",
+    "DisplayName": "Xbox Gaming Overlay"
+  },
+  {
+    "Id": "Microsoft.XboxIdentityProvider",
+    "DisplayName": "Xbox Identity Provider"
+  },
+  {
+    "Id": "Microsoft.XboxSpeechToTextOverlay",
+    "DisplayName": "Xbox SpeechToTextOVerlay"
+  },
+  {
+    "Id": "Microsoft.GamingApp",
+    "DisplayName": "Xbox Gaming App"
+  },
+  {
+    "Id": "Microsoft.Windows.Photos",
+    "DisplayName": "Fotos"
+  },
+  {
+    "Id": "Microsoft.BingNews",
+    "DisplayName": "Noticias"
+  },
+  {
+    "Id": "Microsoft.BingWeather",
+    "DisplayName": "Clima"
+  },
+  {
+    "Id": "Microsoft.People",
+    "DisplayName": "Personas"
+  },
+  {
+    "Id": "Microsoft.WindowsStore",
+    "DisplayName": "Microsoft Store"
+  },
+  {
+    "Id": "Microsoft.StorePurchaseApp",
+    "DisplayName": "Store Purchase App"
+  },
+  {
+    "Id": "Microsoft.Todos",
+    "DisplayName": "To DO"
+  },
+  {
+    "Id": "Microsoft.MicrosoftSolitaireCollection",
+    "DisplayName": "Solitario (Colección)"
+  },
+  {
+    "Id": "Microsoft.MicrosoftStickyNotes",
+    "DisplayName": "Notas rápidas"
+  },
+  {
+    "Id": "Microsoft.Microsoft3DViewer",
+    "DisplayName": "Visualizador 3D"
+  },
+  {
+    "Id": "Microsoft.WindowsMaps",
+    "DisplayName": "Mapas"
+  },
+  {
+    "Id": "Microsoft.WindowsSoundRecorder",
+    "DisplayName": "Grabador de voz"
+  },
+  {
+    "Id": "Microsoft.Copilot",
+    "DisplayName": "Copilot"
+  },
+  {
+    "Id": "Clipchamp.Clipchamp",
+    "DisplayName": "Clipchamp"
+  },
+  {
+    "Id": "Microsoft.PowerAutomateDesktop",
+    "DisplayName": "Power Automate"
+  },
+  {
+    "Id": "Microsoft.WindowsTerminal",
+    "DisplayName": "Windows Terminal"
+  },
+  {
+    "Id": "Microsoft.Office.OneNote",
+    "DisplayName": "OneNote"
+  },
+  {
+    "Id": "Microsoft.WindowsAlarms",
+    "DisplayName": "Reloj"
+  },
+  {
+    "Id": "Microsoft.WindowsCalculator",
+    "DisplayName": "Calculadora"
+  },
+  {
+    "Id": "Microsoft.WindowsCamera",
+    "DisplayName": "Cámara"
+  },
+  {
+    "Id": "Microsoft.YourPhone",
+    "DisplayName": "Enlace móvil"
+  },
+  {
+    "Id": "Microsoft.Wallet",
+    "DisplayName": "Wallet"
+  },
+  {
+    "Id": "Microsoft.GetHelp",
+    "DisplayName": "Ayuda"
+  },
+  {
+    "Id": "Microsoft.WindowsFeedbackHub",
+    "DisplayName": "Feedback Hub"
+  },
+  {
+    "Id": "Microsoft.MicrosoftOfficeHub",
+    "DisplayName": "Office 365"
+  },
+  {
+    "Id": "Microsoft.Edge.GameAssist",
+    "DisplayName": "Game Assist"
+  },
+  {
+    "Id": "Microsoft.Getstarted",
+    "DisplayName": "Tips"
+  },
+  {
+    "Id": "Microsoft.549981C3F5F10",
+    "DisplayName": "Cortana"
+  },
+  {
+    "Id": "MicrosoftCorporationII.QuickAssist",
+    "DisplayName": "Asistente rápido"
+  },
+  {
+    "Id": "MicrosoftCorporationII.MicrosoftFamily",
+    "DisplayName": "Familia"
+  },
+  {
+    "Id": "microsoft.windowscommunicationsapps",
+    "DisplayName": "Correo y calendario"
+  },
+  {
+    "Id": "MicrosoftTeams",
+    "DisplayName": "Microsoft Teams (Personal)"
+  },
+  {
+    "Id": "MSTeams",
+    "DisplayName": "Microsoft Teams"
+  },
+  {
+    "Id": "Microsoft.Windows.DevHome",
+    "DisplayName": "DevHome"
+  },	
+  {
+    "Id": "WindowsBackup",
+    "DisplayName": "Copias de seguridad"
+  },
+  {
+    "Id": "MicrosoftCorporationII.QuickAssist",
+    "DisplayName": "Asistencia rápida"
+  },
+  {
+    "Id": "Microsoft.GetStarted",
+    "DisplayName": "Primero pasos"
+  },
+  {
+    "Id": "Microsoft.ZuneMusic",
+    "DisplayName": "Reproductor multimedia"
+  },
+  {
+    "Id": "Microsoft.MixedReality.Portal",
+    "DisplayName": "Realidad virtual"
+  },
+  {
+    "Id": "Microsoft.OutlookForWindows",
+    "DisplayName": "Microsoft Outlook (New)"
+  },
+  {
+    "Id": "Microsoft.Paint",
+    "DisplayName": "Paint"
+  },
+  {
+    "Id": "MicrosoftWindows.Client.WebExperience",
+    "DisplayName": "Experiencia Web"
+  },
+  {
+    "Id": "microsoft.windowscommunicationsapps",
+    "DisplayName": "Windows Communications"
+  },
+  {
+    "Id": "Microsoft.BingSearch",
+    "DisplayName": "Bing Search"
+  }
+]
+

@@ -1,0 +1,21 @@
+[
+  {
+    "DisplayName": "7-Zip",
+    "Id": "7-Zip.7z",
+    "Folder": "7z",
+    "Run": "7zFM.exe"
+  },  
+  {
+    "DisplayName": "CPU-Z",
+    "Id": "cpuz_x64.exe",
+    "Folder": "",
+    "Run": ""
+  },
+  {
+    "DisplayName": "Victoria",
+    "Id": "victoria.zip",
+    "Folder": "victoria",
+    "Run": "Victoria537\\Victoria.exe"
+  }
+]
+
