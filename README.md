@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RuDeploy — Windows Deployment Tool
 
 <p align="center">
@@ -229,4 +228,3 @@ Si el proyecto te ha sido útil, considera dejar una ⭐ en este repositorio de 
 =======
 # RuDeploy
 RUDeploy es una aplicación para Windows que automatiza la creación de instalaciones desatendidas. Permite generar archivos de respuesta, personalizar idioma, región y usuarios, integrar controladores y aplicaciones, eliminar componentes innecesarios, preparar discos y desplegar imágenes de Windows de forma rápida, flexible y eficiente.
->>>>>>> e0873716600d3e834ae04748d038bdc7c99f7290
