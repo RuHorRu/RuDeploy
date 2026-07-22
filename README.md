@@ -225,6 +225,9 @@ Tu apoyo ayuda a seguir mejorando RUDeploy y a mantener el proyecto activo.
 Si el proyecto te ha sido útil, considera dejar una ⭐ en este repositorio de GitHub. Es una excelente forma de apoyar el desarrollo y ayudar a que más personas descubran RUDeploy.
 
 **RuHor Software Solutions (c)  2019 - 2026**
-=======
-# RuDeploy
-RUDeploy es una aplicación para Windows que automatiza la creación de instalaciones desatendidas. Permite generar archivos de respuesta, personalizar idioma, región y usuarios, integrar controladores y aplicaciones, eliminar componentes innecesarios, preparar discos y desplegar imágenes de Windows de forma rápida, flexible y eficiente.
+
+---
+## **Nota:** 
+
+> Las capturas de pantalla y la documentación de este README corresponden a la **próxima versión 5.x.x.x** de RUDeploy. Mientras tanto, la versión disponible en **Releases** es la **4.3.21.55**.
+
