@@ -227,11 +227,6 @@ Si el proyecto te ha sido útil, considera dejar una ⭐ en este repositorio de 
 **RuHor Software Solutions (c)  2019 - 2026**
 
 ---
-## **Nota:** 
-
-> Las capturas de pantalla y la documentación de este README corresponden a la **próxima versión 5.x.x.x** de RUDeploy. Mientras tanto, la versión disponible en **Releases** es la **4.3.21.55**.
-
----
 
 ## **Importante:**
 
