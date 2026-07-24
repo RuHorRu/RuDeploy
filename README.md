@@ -231,3 +231,8 @@ Si el proyecto te ha sido útil, considera dejar una ⭐ en este repositorio de 
 
 > Las capturas de pantalla y la documentación de este README corresponden a la **próxima versión 5.x.x.x** de RUDeploy. Mientras tanto, la versión disponible en **Releases** es la **4.3.21.55**.
 
+---
+
+## **Importante:**
+
+> RUDeploy ha sido desarrollado y probado utilizando entornos WinPE correctamente configurados y medios de instalación oficiales de Microsoft. No se ofrece garantía de funcionamiento en WinPE personalizados que carezcan de componentes requeridos ni en imágenes de Windows modificadas (con instalación de actualizaciones o caracteristicas pendientes), desatendidas por terceros o versiones "Lite", ya que estas pueden presentar cambios que afecten la compatibilidad y estabilidad de la aplicación.
